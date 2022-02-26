@@ -1,0 +1,5 @@
+/home/egerrmann/OS labs/Libraries linux/Test/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/egerrmann/OS labs/Libraries linux/Test/cmake-build-debug/CMakeFiles/Vector.dir
+/home/egerrmann/OS labs/Libraries linux/Test/cmake-build-debug/CMakeFiles/Number.dir
+/home/egerrmann/OS labs/Libraries linux/Test/cmake-build-debug/CMakeFiles/Test.dir
+/home/egerrmann/OS labs/Libraries linux/Test/cmake-build-debug/CMakeFiles/edit_cache.dir
