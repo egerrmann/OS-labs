@@ -9,7 +9,7 @@ add_library(Vector SHARED
         )
 
 add_library(Number
-        library.h
-        library.cpp)
+        ../Number/cmake-build-debug/libNumber.a
+        ../Number/library.cpp)
 
 target_link_libraries(Vector PUBLIC Number)
