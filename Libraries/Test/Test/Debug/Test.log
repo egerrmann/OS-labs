@@ -1,7 +1,0 @@
-﻿  0 File(s) copied
-  main.cpp
-C:\Studying\Programming\C++\Derevyago\2nd course\OS labs\Libraries\Libraries\Vector\Vector.h(13,9): warning C4251: 'Vector::x': class 'Number' needs to have dll-interface to be used by clients of class 'Vector'
-C:\Studying\Programming\C++\Derevyago\2nd course\OS labs\Libraries\Libraries\Number\Number.h(3): message : see declaration of 'Number'
-C:\Studying\Programming\C++\Derevyago\2nd course\OS labs\Libraries\Libraries\Vector\Vector.h(13,12): warning C4251: 'Vector::y': class 'Number' needs to have dll-interface to be used by clients of class 'Vector'
-C:\Studying\Programming\C++\Derevyago\2nd course\OS labs\Libraries\Libraries\Number\Number.h(3): message : see declaration of 'Number'
-  Test.vcxproj -> C:\Studying\Programming\C++\Derevyago\2nd course\OS labs\Libraries\Test\Debug\Test.exe
