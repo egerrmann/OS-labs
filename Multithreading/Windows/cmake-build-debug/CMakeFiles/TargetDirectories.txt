@@ -1,0 +1,3 @@
+C:/Studying/Programming/C++/Derevyago/2nd course/OS labs/Multithreading/Windows/cmake-build-debug/CMakeFiles/Windows.dir
+C:/Studying/Programming/C++/Derevyago/2nd course/OS labs/Multithreading/Windows/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Studying/Programming/C++/Derevyago/2nd course/OS labs/Multithreading/Windows/cmake-build-debug/CMakeFiles/rebuild_cache.dir
