@@ -66,9 +66,9 @@ MATRIX blockMatricesMultiplication(MATRIX& A, MATRIX& B, int numberOfBlocks) {
     for (int i = 0; i < C.size(); i += blockSize) {
         for (int j = 0; j < C.size(); j += blockSize) {
             for (int k = 0; k < C.size(); k += blockSize) {
-                Params params(C, A, B, i, j, k, blockSize);
+                Params* params = new Params(C, A, B, i, j, k, blockSize);
                 pthread_t pthread;
-                pthread_create(&pthread, nullptr, &blocksMultiplication, (void*)&params);
+                pthread_create(&pthread, nullptr, &blocksMultiplication, (void*)params);
                 thrVector.push_back(pthread);
             }
         }
