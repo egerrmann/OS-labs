@@ -1,9 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/Windows.dir/main.cpp.obj"
-  "Windows.exe"
-  "Windows.exe.manifest"
+  "CMakeFiles/Windows.dir/main.cpp.o"
+  "CMakeFiles/Windows.dir/main.cpp.o.d"
+  "Windows"
   "Windows.pdb"
-  "libWindows.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

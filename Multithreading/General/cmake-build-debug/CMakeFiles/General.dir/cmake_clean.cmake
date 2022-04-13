@@ -1,9 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/General.dir/main.cpp.obj"
-  "General.exe"
-  "General.exe.manifest"
+  "CMakeFiles/General.dir/main.cpp.o"
+  "CMakeFiles/General.dir/main.cpp.o.d"
+  "General"
   "General.pdb"
-  "libGeneral.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.
