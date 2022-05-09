@@ -1,0 +1,3 @@
+/home/egerrmann/OS-labs/Process/Linux/Killer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/egerrmann/OS-labs/Process/Linux/Killer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/egerrmann/OS-labs/Process/Linux/Killer/cmake-build-debug/CMakeFiles/Killer.dir
