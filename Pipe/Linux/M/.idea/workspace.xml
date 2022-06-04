@@ -5,7 +5,7 @@
   </component>
   <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
     <generated>
-      <config projectName="Killer" targetName="Killer" />
+      <config projectName="M" targetName="M" />
     </generated>
   </component>
   <component name="CMakeSettings">
@@ -14,7 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="be15cdbb-4b7b-428a-994d-68dc900a2cad" name="Changes" comment="" />
+    <list default="true" id="4c7f5345-0bfd-4ff0-b45a-801af0b3c148" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,7 +35,7 @@
     <option name="majorVersion" value="2021" />
     <option name="minorVersion" value="3.3" />
   </component>
-  <component name="ProjectId" id="28sa2qMivgzsBhv39mXc0t05UiM" />
+  <component name="ProjectId" id="2A6d0lMhbFRpxSd7gPYzqL80MkR" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,14 +49,18 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../Windows/Killer" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
-    <configuration name="Killer" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Killer" TARGET_NAME="Killer" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="Killer" RUN_TARGET_NAME="Killer">
+    <configuration name="M" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="M" TARGET_NAME="M" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="M" RUN_TARGET_NAME="M">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
@@ -65,14 +69,13 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="be15cdbb-4b7b-428a-994d-68dc900a2cad" name="Changes" comment="" />
-      <created>1652007543576</created>
+      <changelist id="4c7f5345-0bfd-4ff0-b45a-801af0b3c148" name="Changes" comment="" />
+      <created>1654333748399</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1652007543576</updated>
-      <workItem from="1652007545955" duration="3731000" />
-      <workItem from="1652131412336" duration="3934000" />
-      <workItem from="1654263031113" duration="6135000" />
+      <updated>1654333748399</updated>
+      <workItem from="1654333750804" duration="1710000" />
+      <workItem from="1654336138872" duration="5192000" />
     </task>
     <servers />
   </component>
